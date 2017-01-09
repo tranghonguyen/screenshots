@@ -1,2 +1,2 @@
 # screenshots
-screenshots of subscriptopms
+screenshots of subscriptions
